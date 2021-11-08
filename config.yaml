@@ -1,8 +1,8 @@
-baseurl: https://gerald-apm.github.io/ceritarakyat
+baseurl: https://gerald-apm.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Kompilasi Cerita Rakyat Indonesia
+title: Portfolio Website of Geraldhi Mahayadnya
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -42,8 +42,8 @@ params:
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
-            local: true
-            src: img/avatar.png
+            local: false
+            src: https://avatars.githubusercontent.com/u/11502944?v=4
 
     article:
         math: false
