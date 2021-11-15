@@ -3,3 +3,5 @@ This repository hosts my portfilio website that is using Hugo as the framework.
 
 You can access the website by visiting
 `gerald-apm.github.io`.
+
+This is a test example.
