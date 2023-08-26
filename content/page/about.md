@@ -17,6 +17,17 @@ Hello everyone, my name is Geraldhi Aditya Putra Mahayadnya. You can just call m
 
 I am currently working at a Banking Company in Indonesia as a System Engineer specialized in Unix and Linux Systems. I organized, deployed, and maintained over 500+ Linux Machines and automated them using Ansible and other tools. API is my best friend when it comes to automation :D
 
+Here are my commonly-used skills at work:
+
+- Linux (Red Hat and Oracle Linux), sometimes Ubuntu comes in play
+- Ansible Automation Platform
+- Container tools (Docker and Podman)
+- Virtualization (Ovirt KVM)
+- Observation (ELK, Prometheus, Grafana)
+- Python (Ingesting API & Logs)
+- Bash Scripting
+- Solaris (whenever needed to configure old servers :p)
+
 Feel free to reach me anythime via this link:
 
 - [LinkedIn](https://linkedin.com/in/geraldapm)
