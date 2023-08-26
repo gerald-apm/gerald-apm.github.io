@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2021
+        since: 2023
         customText: Geraldhi A. P. Mahayadnya Portfolio Website
 
     dateFormat:
@@ -116,15 +116,15 @@ params:
             emitMetadata: 0
 
         gitalk:
-            owner: 
-            admin:  
-            repo: 
-            clientID: 
-            clientSecret: 
-        
+            owner:
+            admin:
+            repo:
+            clientID:
+            clientSecret:
+
         cusdis:
-            host: 
-            id: 
+            host:
+            id:
 
     widgets:
         enabled:
