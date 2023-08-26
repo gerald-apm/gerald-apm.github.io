@@ -3,16 +3,6 @@ author = "Geraldhi Mahayadnya"
 title = "Mengenal Linux"
 date = "2023-08-27"
 description = "Apasih Linux? Apa yang membuat kita perlu Linux? Apa manfaatnya menggunakan Linux? Perspektif pribadi tentang Linux."
-tags = [
-    "cerita",
-    "legenda",
-    "id"
-]
-categories = [
-    "Legenda",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
