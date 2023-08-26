@@ -17,6 +17,7 @@ image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
 Cerita Malin Kundang berasal dari provinsi Sumatra Barat, Indonesia. Legenda Malin Kundang sendiri menceritakan tentang seorang anak yang durhaka dan dikutuk menjadi batu.
+
 <!--more-->
 
 ### Hiduplah seorang janda bernama Mande Rubayah yang tinggal bersama anak laki-lakinya, Malin Kundang
