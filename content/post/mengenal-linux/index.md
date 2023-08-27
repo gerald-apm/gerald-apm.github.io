@@ -25,17 +25,17 @@ Bagi yang belum tahu Linux, Singkatnya Linux adalah sebuah sebuah Sistem Operasi
 
 ## Apa saja macam-macam Linux?
 
-updated soon
-
-## Pengalaman penulis mencari jalan ninja sebagai pengguna Linux
-
-updated soon
+Linux terdiri dari berbagai macam distribusi Sistem Operasi, yang sering disebut dengan distro. Distro ini banyak sekali jenisnya, dan mempunyai tujuan penggunaan yang berbeda pula. Layaknya memilih brand alat elektronik, kita juga perlu memilih disto yang sesuai dengan kebutuhan kita. Ada distro yang populer seperti Ubuntu, Linux Mint, Debian, Fedora, dan distro yang dikhususkan untuk keperluan spesifik seperti Kali Linux untuk Penetration Testing (Bahasa gaulnya distronya Heker wkwk).
 
 ## Why Linux?
 
 updated soon
 
 ## Manfaat memakai Linux
+
+updated soon
+
+## Pengalaman penulis mencari jalan ninja sebagai pengguna Linux
 
 updated soon
 
