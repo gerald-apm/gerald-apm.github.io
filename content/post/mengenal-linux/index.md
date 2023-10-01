@@ -29,7 +29,7 @@ Linux terdiri dari berbagai macam distribusi Sistem Operasi, yang sering disebut
 
 ## Why Linux?
 
-updated soon
+Saya menemukan untuk melakukan pengembangan aplikasi atau melakukan riset terhadap teknologi masa kini, akan lebih baik menggunakan linux. Karena aplikasi-aplikasi tersebut rata-rata dikembangkan pada OS berbasis linux. Sehingga ketika kita ingin mencoba aplikasi tersebut lebih mudah dan nyaman menggunakan linux.
 
 ## Manfaat memakai Linux
 
